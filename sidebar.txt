@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cwa:home|Door43 (cwa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cwa|d43-cwa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cwa/archive/master.zip|d43-cwa.zip]]
+
+**Recent Changes**
+{{changes>ns = cwa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cwa|Ethnologue data]]
+
